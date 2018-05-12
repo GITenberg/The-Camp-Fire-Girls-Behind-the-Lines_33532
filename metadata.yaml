@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-Behind-the-Lines_33532
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33532-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: The Camp Fire Girls Behind the Lines
+url: http://www.gutenberg.org/ebooks/33532
